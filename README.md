@@ -5,18 +5,18 @@ This project is a Movie Recommendation System designed to provide personalized m
 # Technologies Used
 
 🔧 Frontend
-HTML – Structuring the web pages
-CSS – Styling and layout
-JavaScript – Dynamic and interactive features
+1. HTML – Structuring the web pages
+2. CSS – Styling and layout
+3. JavaScript – Dynamic and interactive features
 
 🖥️ Backend
-Python – Main language for server-side logic
-Flask – Lightweight Python web framework for backend APIs
+1. Python – Main language for server-side logic
+2. Flask – Lightweight Python web framework for backend APIs
 
 🧠 AI/ML Techniques
-Collaborative Filtering – Based on preferences of similar users
-Content-Based Filtering – Based on movie features like genres, cast, etc.
-Hybrid Models – Combining both techniques for better recommendations
+1. Collaborative Filtering – Based on preferences of similar users
+2. Content-Based Filtering – Based on movie features like genres, cast, etc.
+3. Hybrid Models – Combining both techniques for better recommendations
 
 
 # For instructions on how to run the project or to obtain an API key, please refer to the INSTRUCTIONS.txt file.
