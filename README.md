@@ -17,3 +17,6 @@ Flask – Lightweight Python web framework for backend APIs
 Collaborative Filtering – Based on preferences of similar users
 Content-Based Filtering – Based on movie features like genres, cast, etc.
 Hybrid Models – Combining both techniques for better recommendations
+
+
+# For instructions on how to run the project or to obtain an API key, please refer to the INSTRUCTIONS.txt file.
